@@ -16,7 +16,7 @@ import java.util.Scanner;
             } return s1;
         }
 
-        static int sum2(int n2)  //created method for sum of factors of number 1
+        static int sum2(int n2)  //created method for sum of factors of number 2
         {
             int j, s2 = 0;
             for (j = 1; j < n2; j++) {
